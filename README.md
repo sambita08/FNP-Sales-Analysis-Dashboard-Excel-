@@ -115,7 +115,6 @@ FNP-Sales-Analysis/
 │   └── products.csv
 │
 ├── FNP_Sales_Analysis.xlsx
-├── images/
 │   └── dashboard.png
 └── README.md
 ```
