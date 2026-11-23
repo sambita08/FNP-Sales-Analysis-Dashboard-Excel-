@@ -1,7 +1,4 @@
-# FNP-Sales-Analysis-Dashboard-Excel-
-This repository presents an end-to-end sales analysis of Ferns N Petals (FNP), one of India’s best-known gifting brands. It examines revenue patterns, customer purchasing habits, and product performance, and turns them into practical insights that can sharpen marketing decisions and improve day-to-day operations.
-
-# 🌸 FNP Sales Analysis Dashboard (Excel)
+#  FNP Sales Analysis Dashboard (Excel)
 
 An end-to-end sales analysis of **Ferns N Petals (FNP)**, one of India's best-known gifting brands. The project examines revenue patterns, customer purchasing habits, and product performance, and turns them into practical insights that can sharpen marketing decisions and improve day-to-day operations.
 
@@ -40,7 +37,7 @@ The data is split across three CSV files in the `data/` folder:
 | `orders.csv` | Order-level transactions | Order_ID, Customer_ID, Product_ID, Quantity, Order_Date, Order_Time, Delivery_Date, Delivery_Time, Location, Occasion |
 | `products.csv` | Product catalogue | Product_ID, Product_Name, Category, Price (INR), Occasion |
 
-> *Adjust column names to match your actual files.*
+
 
 ---
 
@@ -66,7 +63,7 @@ The data is split across three CSV files in the `data/` folder:
 
 ## 📊 Dashboard Overview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 **KPIs tracked**
 | Metric | Value |
@@ -96,7 +93,6 @@ The data is split across three CSV files in the `data/` folder:
 - 🎁 **Dignissimos Pack** and **Maiores Box** are among the top-earning products.
 - 🚚 Orders take about **[5.7] days** on average to be delivered.
 
-> *Update these to match your final numbers.*
 
 ---
 
